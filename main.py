@@ -14,7 +14,7 @@ global mensaje_evento_id
 mensaje_evento_id = None  # ID del mensaje del evento
 
 discordToken = getenv("DISCORD_TOKEN")
-api_key = getenv("OPENAI_API_KEY")
+chatgptToken = getenv("OPENAI_API_KEY")
 
 # Intents necesarios
 intents = discord.Intents.default()
@@ -26,7 +26,7 @@ client = commands.Bot(command_prefix='!', intents=intents)
 
 
 # --- Inicializar OpenAI ---
-openai_client = OpenAI(api_key=api_key)
+openai_client = OpenAI(api_key=chatgptToken)
 
 @client.event
 async def on_ready():
