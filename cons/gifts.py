@@ -1,0 +1,22 @@
+math_gifs = [
+    "https://media.tenor.com/hlKEXPvlX48AAAAC/math-meme.gif",
+    "https://media.tenor.com/FUwUewP0p5oAAAAC/math-thinking.gif",
+    "https://media.tenor.com/iZHIUKZcRy0AAAAC/calculating-math.gif",
+    "https://media.tenor.com/CSN0Dy8Xh_UAAAAC/math-confused.gif",
+    "https://media.tenor.com/41I-iMyClCgAAAAd/think-math.gif",
+    "https://media.tenor.com/zrHjPdPAgVwAAAAd/mathematics-math.gif",
+    "https://media.tenor.com/xLyq9s4CDqMAAAAd/math-formulas.gif",
+    "https://media.tenor.com/Sw2y2vZbG5MAAAAd/math-algebra.gif",
+    "https://media.tenor.com/8m5pKnR8NDwAAAAC/math-geometry.gif",
+    "https://media.tenor.com/nlBBd_uh_O4AAAAC/math-mind-blown.gif",
+    "https://media.tenor.com/1vPjOHGL3VAAAAAd/beautiful-mind-mathematics.gif",
+    "https://media.tenor.com/NQkD8VYgYIMAAAAd/math-equations.gif",
+    "https://media.tenor.com/65WbttTtU6AAAAAC/math-calculator.gif",
+    "https://media.tenor.com/1BQ-m0WhV5AAAAAd/maths-numbers.gif",
+    "https://media.tenor.com/Jz47a6YpxJYAAAAd/mathematics-maths.gif",
+    "https://media.tenor.com/7MEBayYg6BgAAAAd/math-numbers-fly.gif",
+    "https://media.tenor.com/n-t7M5ZYlAIAAAAd/maths-calculations.gif",
+    "https://media.tenor.com/S0CZpJ08RDEAAAAC/algebra-math.gif",
+    "https://media.tenor.com/3h6dIo5K9ksAAAAd/calculating-calculator.gif",
+    "https://media.tenor.com/4Q09fB3p9DgAAAAd/math-brain.gif"
+]
