@@ -14,7 +14,7 @@ load_dotenv()
 global mensaje_evento_id
 mensaje_evento_id = None  # ID del mensaje del evento
 
-discordToken = getenv("DISCORD_TOKEN")
+discordToken = "MTQ0MDU1Njc2OTM5NDAzNjg3OA.GhvVT1.3smKgOWjqWwpnkdBtjLLF1dslELt_Yjkd2yWQ8"
 
 # Intents necesarios
 intents = discord.Intents.default()
@@ -27,7 +27,7 @@ deepseek_api_key = getenv("DEEPSEEK_API_KEY")
 if deepseek_api_key:
     deepseek_client = DeepSeekAPI(deepseek_api_key)
 else:
-    deepseek_client = DeepSeekAPI()  # intenta leer de env por defecto
+    deepseek_client = DeepSeekAPI("sk-4db6cdf3d49545439824f15828924d25")  # intenta leer de env por defecto
 
 @client.event
 async def on_ready():
